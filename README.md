@@ -13,7 +13,6 @@ I am a passionate **Mobile App Developer** specializing in **Flutter**, with a k
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" />
- 
 </p>
 
 **Backend & Cloud Services:**
@@ -27,7 +26,6 @@ I am a passionate **Mobile App Developer** specializing in **Flutter**, with a k
 <p>
   <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -51,32 +49,22 @@ Here are some of the cool things I've been working on:
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halim-eng1&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halim-eng1&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-
----
-
-### 🚀 Hire Me | خدماتي
+### 🚀 Hire Me
 **Currently available for project submission on the following platforms:**
 
-<p >
-  
-  </a>
+<p align="center">
   <a href="https://www.freelancer.com/u/AbdElhalim16" target="_blank">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" />
   </a>
-<a href="https://www.upwork.com/freelancers/~01e70bfad250df9a77" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01e70bfad250df9a77" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
- <a href="https://khamsat.com/user/bhffgu" target="_blank">
+  </a>
+  <a href="https://khamsat.com/user/bhffgu" target="_blank">
     <img src="https://img.shields.io/badge/Khamsat-C4863F?style=for-the-badge&logo=box&logoColor=white" alt="Khamsat" />
   </a>
   <a href="https://mostaql.com/u/halim90i" target="_blank">
     <img src="https://img.shields.io/badge/Mostaql-2083D6?style=for-the-badge&logo=box&logoColor=white" alt="Mostaql" />
   </a>
- 
 </p>
 
 ---
