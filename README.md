@@ -42,12 +42,7 @@ Here are some of the cool things I've been working on:
 
 ---
 
-### ⚡ Current Status
-- 🎓 Finalizing my graduation project: An **Automated Course Registration System**.
-- 💼 Active Freelancer on **Upwork**, **Freelancer.com**, and **Khamsat**.
-- 🤖 exploring Big Data and NLP concepts to enhance my AI-driven apps.
 
----
 
 ### 🚀 Hire Me
 **Currently available for project submission on the following platforms:**
